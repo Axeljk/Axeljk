@@ -1,16 +1,22 @@
-### Hi there 👋
+# Full Stack Developer
 
-<!--
-**Axeljk/Axeljk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Axel and I am currently enrolled in a full stack coding bootcamp at the University of Washington. Programming has been a lifelong hobby of mine and I am excited to combine that with my previous work experiences on -- then leading -- a team. 
 
-Here are some ideas to get you started:
+## Key Projects
+| [G.A.D.D.](https://axeljk.github.io/gadd/gadd.html)  | [Congress Stock Stalking](https://axeljk.github.io/congress-stock-stalking) |  [Chew on It](https://chew-on-it.herokuapp.com)  |
+| :---: | :---: | :---: |
+| [![GADD](/gadd.png)](https://axeljk.github.io/gadd/gadd.html)  | [![Congress Stalking](/congress-stalking.png)](https://axeljk.github.io/congress-stock-stalking)  |  [![Chew-on-It](/chew-on-it.png)](https://chew-on-it.herokuapp.com)  |
+|  Roguelike dungeon crawler written in Javascript and using Phaser.io. This is a solo project in my spare time. It is purposely simple to fill the need for an idle game to play in short bursts.  |  Utilizing disclosed stock trades made by members of the House of Representatives, Congressional Stock Stalking tabularizes a timeline showing prices and estimated profits.  |  Chew on It is a social media site centered on give and receiving recommended places to eat. See the hottest places from who you're following in your feed, or by visiting their profiles.  |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cpp,html,css,bootstrap,js,nodejs,mysql,mongodb,heroku" />
+  </a>
+</p>
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-kern)
+[![Email](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:axeljkern@yahoo.com)
