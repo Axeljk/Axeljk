@@ -14,7 +14,7 @@ What excites me the most with coding is the aspect of solving a puzzle. I am ver
 
 <p align="center">
   <a href="https://github.com/Axeljk?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=Axeljk" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Axeljk&show_icons=true" />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,html,css,bootstrap,js,nodejs,mysql,mongodb,heroku" />
