@@ -13,9 +13,16 @@ What excites me the most with coding is the aspect of solving a puzzle. I am ver
 ## Key Skills
 
 <p align="center">
+  <a href="https://github.com/Axeljk?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=Axeljk" />
+  </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,html,css,bootstrap,js,nodejs,mysql,mongodb,heroku" />
   </a>
+</p>
+
+<p align="center">
+
 </p>
 
 ## Contact
